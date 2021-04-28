@@ -1,5 +1,7 @@
 I'm changing this
 I'm changing
 I'm changing
+THIS IS THE LINE TO DELETE
 These are the changes that were made
 These ones have been made too
+This one was made a little later
